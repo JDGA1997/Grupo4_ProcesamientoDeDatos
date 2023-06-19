@@ -13,7 +13,7 @@
 
 ## Integrantes
 
-- [Jon Francis Perez]()
+- [Jon Francis Perez](https://github.com/jfperez-data)
 
 - [Romina Cattaneo](https://github.com/romica44)
 
