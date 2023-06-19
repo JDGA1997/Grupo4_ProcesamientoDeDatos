@@ -21,7 +21,7 @@
 
 - [Federico Fabian Bellon](https://github.com/fedevricobellon)
 
-- [Camilo Quiroga]()
+- [Camilo Quiroga](https://github.com/camiloquirogadev)
 
 - [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997)
 
