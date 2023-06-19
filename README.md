@@ -15,17 +15,17 @@
 
 - [Jon Francis Perez]()
 
-- [Romina Cattaneo]()
+- [Romina Cattaneo](https://github.com/romica44)
 
 - [Eugenia Ingaramo]()
 
-- [Federico Fabian Bellon]()
+- [Federico Fabian Bellon](https://github.com/fedevricobellon)
 
 - [Camilo Quiroga]()
 
 - [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997)
 
-- [Maximiliano Pantaleff]()
+- [Maximiliano Pantaleff](https://github.com/Maxi-009)
 
 # Consigna para proyecto de finalización: Procesamiento de Datos
 
