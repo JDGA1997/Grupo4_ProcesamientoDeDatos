@@ -27,6 +27,13 @@
 
 - [Maximiliano Pantaleff](https://github.com/Maxi-009)
 
+# Objetivo del Proyecto
+- 
+# Breve Descripcion
+- 
+# Instrucciones para su uso
+-
+
 # Consigna para proyecto de finalización: Procesamiento de Datos
 
 ## Aplicación de técnicas de procesamiento de datos en una temática relacionada
