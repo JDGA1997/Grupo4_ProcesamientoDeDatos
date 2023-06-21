@@ -17,7 +17,7 @@
 
 - [Romina Cattaneo](https://github.com/romica44)
 
-- [Eugenia Ingaramo]()
+- [Eugenia Ingaramo](https://github.com/eugeinga)
 
 - [Federico Fabian Bellon](https://github.com/fedevricobellon)
 
