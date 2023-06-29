@@ -26,5 +26,5 @@ El Análisis de Datos Exploratorio (EDA) se realizó con Python haciendo uso de 
 Para acceder al EDA es necesario visualizar el archivo "cars.ipynb" mediante Jupyter Notebook.
 
 ## Presentación Visual del Proyecto
-Introducción: https://youtu.be/SxUts7cuBLk
-Explicación del EDA: https://www.youtube.com/watch?v=PLy4QH4QmP4
+- Introducción: https://youtu.be/SxUts7cuBLk
+- Explicación del EDA: https://www.youtube.com/watch?v=PLy4QH4QmP4
