@@ -7,7 +7,7 @@
 ## Integrantes
 - [Jon Francis Perez](https://github.com/jfperez-data)
 - [Romina Cattaneo](https://github.com/romica44)
-- [Maria Eugenia Ingaramo](https://github.com/eugeinga)
+- [Maria Eugenia Ingaramo](https://github.com/eugeinga) - Aula 1
 - [Federico Fabian Bellon](https://github.com/fedevricobellon)
 - [Camilo Quiroga](https://github.com/camiloquirogadev)
 - [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997)
