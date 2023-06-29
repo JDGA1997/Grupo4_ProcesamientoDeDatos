@@ -5,7 +5,7 @@
 ## Profesor: Moises Tinte
 
 ## Integrantes
-- [Jon Francis Perez](https://github.com/jfperez-data)
+- [Jon Francis Perez](https://github.com/jfperez-data) - Aula 1
 - [Romina Cattaneo](https://github.com/romica44) - Aula 1
 - [Maria Eugenia Ingaramo](https://github.com/eugeinga) - Aula 1
 - [Federico Fabian Bellon](https://github.com/fedevricobellon) - Aula 2
