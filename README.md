@@ -35,7 +35,7 @@ El Análisis de Datos Exploratorio (EDA) se realizó con Python haciendo uso de 
 ## Instrucciones para su uso
 Se recomiendan los siguientes pasos para ejecutar el proyecto:
 - Clona el archivo a tu máquina local.
-- Asegúrese de que las bibliotecas necesarias (Matplotlib, Pandas y NumPy) estén instaladas en su entorno de Python.
+- Asegúrese de que las bibliotecas necesarias (Pandas, NumPy, Matplotlib y Seaborn) estén instaladas en su entorno de Python.
 - Visualizar el archivo "cars.ipynb" ubicado en la carpeta notebook/ para accerder al EDA.
 - Abra el Jupyter Notebook y ejecute las celdas de codigo en el orden correspondiente.
 
