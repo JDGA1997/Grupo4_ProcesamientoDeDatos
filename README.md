@@ -27,4 +27,4 @@ Para acceder al EDA es necesario visualizar el archivo "cars.ipynb" mediante Jup
 
 ## Presentación Visual del Proyecto
 - Introducción: https://youtu.be/SxUts7cuBLk
-- Explicación del EDA: https://www.youtube.com/watch?v=PLy4QH4QmP4
+- Explicación del EDA: https://youtu.be/PLy4QH4QmP4
