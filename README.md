@@ -11,7 +11,7 @@
 - [Federico Fabian Bellon](https://github.com/fedevricobellon)
 - [Camilo Quiroga](https://github.com/camiloquirogadev)
 - [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997) - Aula 1
-- [Maximiliano Pantaleff](https://github.com/Maxi-009)
+- [Maximiliano Pantaleff](https://github.com/Maxi-009) - Aula 1
 
 ## Objetivo del Proyecto
 El objetivo de este proyecto es aplicar los conceptos estudiados en el espacio curricular de "Procesamiento de Datos" para realizar el procesamiento y análisis de datos.
