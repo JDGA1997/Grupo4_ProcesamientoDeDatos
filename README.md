@@ -10,7 +10,7 @@
 - [Maria Eugenia Ingaramo](https://github.com/eugeinga) - Aula 1
 - [Federico Fabian Bellon](https://github.com/fedevricobellon)
 - [Camilo Quiroga](https://github.com/camiloquirogadev)
-- [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997)
+- [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997) - Aula 1
 - [Maximiliano Pantaleff](https://github.com/Maxi-009)
 
 ## Objetivo del Proyecto
