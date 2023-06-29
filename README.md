@@ -22,12 +22,22 @@ Este conjunto de datos contiene anuncios de autos usados de varios recursos web 
 Se espera poder explorar el mercado de automóviles usados a fin de buscar relaciones entre el precio de los vehículos y sus diferentes características categóricas. 
 El Análisis de Datos Exploratorio (EDA) se realizó con Python haciendo uso de las siguientes librerías: Pandas, Numpy, MatPlotLib y SeaBorn.
 
+## Librerias utilizadas
+- pandas : esta libreria se usa ampliamente  para la gestión y el  análisis de datos de Python. Proporciona estructuras de datos y herramientas para un procesamiento y análisis de datos  eficiente.
+- numpy : esta libreria de Python utilizada para realizar operaciones numéricas y manipular tablas de datos.
+- matplotlib.pyplot  : esta  libreria se utiliza para la  visualización de datos de Python, ademas pyplot es una interfaz para crear gráficos estáticos como  líneas, barras, dispersión, etc.
+- seaborn :  esta libreria se utiliza para la de visualización de datos de Python, ademas que proporciona una interfaz avanzada para crear cartas atractivas e informativas.
+
 ## Estructura del repositorio
 - dataset: Esta carpeta contiene los datos utilizados en el proyecto.
 - notebook: Esta carpeta contiene el notebook de Jupyter con codigo y analisis realizado.
 
 ## Instrucciones para su uso
-Para acceder al EDA es necesario visualizar el archivo "cars.ipynb" mediante Jupyter Notebook.
+Se recomiendan los siguientes pasos para ejecutar el proyecto:
+- Clona el archivo a tu máquina local.
+- Asegúrese de que las bibliotecas necesarias (Matplotlib, Pandas y NumPy) estén instaladas en su entorno de Python.
+- Visualizar el archivo "cars.ipynb" ubicado en la carpeta notebook/ para accerder al EDA.
+- Abra el Jupyter Notebook y ejecute las celdas de codigo en el orden correspondiente.
 
 ## Presentación Visual del Proyecto
 - Introducción: https://youtu.be/SxUts7cuBLk
