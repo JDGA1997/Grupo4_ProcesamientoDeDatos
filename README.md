@@ -8,7 +8,7 @@
 - [Jon Francis Perez](https://github.com/jfperez-data)
 - [Romina Cattaneo](https://github.com/romica44) - Aula 1
 - [Maria Eugenia Ingaramo](https://github.com/eugeinga) - Aula 1
-- [Federico Fabian Bellon](https://github.com/fedevricobellon)
+- [Federico Fabian Bellon](https://github.com/fedevricobellon) - Aula 2
 - [Camilo Quiroga](https://github.com/camiloquirogadev)
 - [Juan Diego Gonzalez Antoniazzi](https://github.com/JDGA1997) - Aula 1
 - [Maximiliano Pantaleff](https://github.com/Maxi-009) - Aula 1
